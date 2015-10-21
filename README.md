@@ -1,4 +1,12 @@
 # ICSE-2011-Dyta
 Dynamic Symbolic execution guided with static verification results
 
-Repository for tool Dyta, declared unworkable because authors did not provide tool. 
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
+ * [The project source code](http://pexase.codeplex.com/)
+ * [ Website of the project](https://sites.google.com/site/asergrp/projects/dyta )
+ * There is no link to the original video of the tool.
+ 
+ This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
+ 
+-I would also like to thank Dr.Xi Ge and his colleagues for all their help setting up the tool.
+
